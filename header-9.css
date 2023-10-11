@@ -1,0 +1,233 @@
+.background,
+.background1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.background1 {
+  height: 100%;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  background-color: var(--background-light);
+}
+.background {
+  height: 105%;
+  width: 114.29%;
+  right: -14.29%;
+  bottom: -5%;
+}
+.we-made-it4,
+.you-have-the {
+  position: absolute;
+  left: 0;
+  display: inline-block;
+}
+.we-made-it4 {
+  width: 89.38%;
+  top: 73.67%;
+  line-height: 28px;
+  font-weight: 500;
+  opacity: 0.7;
+  mix-blend-mode: normal;
+}
+.you-have-the {
+  width: 100%;
+  top: 0;
+  font-size: var(--heading-h2-header-size);
+  letter-spacing: -1px;
+  line-height: 70px;
+  color: var(--colors-heading);
+}
+.rectangle14,
+.text8 {
+  position: absolute;
+  height: 39.88%;
+  width: 33.64%;
+  top: 27.75%;
+  right: 51.07%;
+  bottom: 32.38%;
+  left: 15.29%;
+}
+.rectangle14 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-81xl);
+  border: 2px solid var(--colors-grey);
+  box-sizing: border-box;
+}
+.sign-up11 {
+  position: absolute;
+  top: calc(50% - 13px);
+  left: calc(50% - 39px);
+  font-size: var(--text-article-size);
+  line-height: 26px;
+  font-weight: 500;
+  font-family: var(--text-article);
+  color: var(--colors-heading);
+  text-align: center;
+}
+.blog3,
+.features5,
+.home2,
+.middle-dark-outline2,
+.pricing5 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+}
+.middle-dark-outline2 {
+  height: 100%;
+  width: 12.15%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 87.85%;
+}
+.blog3,
+.features5,
+.home2,
+.pricing5 {
+  top: 17.5%;
+  left: 76.73%;
+  font-size: var(--text-article-size);
+  line-height: 26px;
+  font-weight: 500;
+  font-family: var(--text-article);
+  color: var(--colors-heading);
+  text-align: left;
+  display: inline-block;
+}
+.features5,
+.home2,
+.pricing5 {
+  left: 63.44%;
+}
+.features5,
+.home2 {
+  left: 51.29%;
+}
+.home2 {
+  left: 38.62%;
+  opacity: 0.3;
+}
+.startup-38 {
+  position: absolute;
+  top: -6px;
+  left: 2px;
+  letter-spacing: -0.29px;
+}
+.black5,
+.header-menu7,
+.logo {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.header-menu7,
+.logo {
+  height: 47.5%;
+  width: 11.43%;
+  top: 27.5%;
+  right: 88.57%;
+  bottom: 25%;
+}
+.header-menu7 {
+  height: 5%;
+  width: 69.36%;
+  top: 9.75%;
+  right: 15.36%;
+  bottom: 85.25%;
+  left: 15.29%;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  color: var(--colors-heading);
+}
+.oval-151-icon,
+.rectangle-icon {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rectangle-icon {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 50px;
+  object-fit: cover;
+}
+.oval-151-icon {
+  height: 41.15%;
+  width: 41.15%;
+  top: 29.42%;
+  right: 29.42%;
+  bottom: 29.43%;
+  left: 29.42%;
+}
+.image,
+.rectangle15 {
+  position: absolute;
+  height: 46.25%;
+  width: 26.43%;
+  top: 30.25%;
+  right: 15.36%;
+  bottom: 23.5%;
+  left: 58.21%;
+}
+.rectangle15 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-81xl);
+  background-color: var(--action-secondary);
+}
+.sign-up12 {
+  position: absolute;
+  top: calc(50% - 13px);
+  left: calc(50% - 70px);
+  font-size: var(--buttons-big-size);
+  line-height: 26px;
+  font-weight: 500;
+  font-family: var(--text-article);
+  color: var(--background-light);
+  text-align: center;
+}
+.big-fill3 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 593px;
+  left: 214px;
+  width: 206px;
+  height: 60px;
+}
+.header-9 {
+  position: relative;
+  background-color: var(--background-light);
+  width: 100%;
+  height: 800px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--text-article-size);
+  color: var(--colors-text);
+  font-family: var(--text-article);
+}

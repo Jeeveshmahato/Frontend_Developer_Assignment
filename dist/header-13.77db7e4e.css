@@ -1,0 +1,190 @@
+.image-icon3 {
+  object-fit: cover;
+  opacity: .5;
+  width: 1400px;
+  height: 650px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.create-sites-without {
+  letter-spacing: -1px;
+  width: 49.86%;
+  line-height: 86px;
+  display: inline-block;
+  position: absolute;
+  top: 27.69%;
+  left: 24.64%;
+}
+
+.startup-gives-you {
+  width: 100%;
+  font-weight: 500;
+  line-height: 32px;
+  display: inline-block;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.text12 {
+  font-size: var(--heading-h5-lead-size);
+  width: 36.64%;
+  height: 19.69%;
+  position: absolute;
+  inset: 60% 31.64% 20.31% 31.71%;
+}
+
+.rectangle21 {
+  border-radius: var(--br-81xl);
+  background-color: var(--action-secondary);
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  inset: 0;
+}
+
+.sign-up19 {
+  font-size: var(--text-paragraph-size);
+  font-weight: 500;
+  line-height: 22px;
+  font-family: var(--text-article);
+  color: var(--background-light);
+  text-align: center;
+  position: absolute;
+  top: calc(50% - 11px);
+  left: calc(50% - 44px);
+}
+
+.fa-behance1, .fa-dribbble1, .fa-instagram, .small-fill {
+  cursor: pointer;
+  background-color: #0000;
+  border: 0;
+  padding: 0;
+  position: absolute;
+}
+
+.small-fill {
+  width: 12.35%;
+  height: 100%;
+  inset: 0 0 0 87.65%;
+}
+
+.fa-behance1, .fa-dribbble1, .fa-instagram {
+  font-size: var(--text-article-size);
+  font-family: var(--font-awesome);
+  color: var(--background-light);
+  text-align: left;
+  display: inline-block;
+  top: calc(50% - 10px);
+  left: 95.3%;
+}
+
+.fa-dribbble1, .fa-instagram {
+  left: 85.01%;
+}
+
+.fa-dribbble1 {
+  left: 74.72%;
+}
+
+.blog4 {
+  position: absolute;
+  left: 59.28%;
+}
+
+.blog4, .features6, .pricing7 {
+  cursor: pointer;
+  font-size: var(--text-article-size);
+  font-weight: 500;
+  line-height: 26px;
+  font-family: var(--text-article);
+  color: var(--background-light);
+  text-align: left;
+  background-color: #0000;
+  border: 0;
+  padding: 0;
+  display: inline-block;
+  top: calc(50% - 13px);
+}
+
+.pricing7 {
+  position: absolute;
+  left: 38.93%;
+}
+
+.features6 {
+  left: 14.77%;
+}
+
+.features6, .menu8, .tour2 {
+  position: absolute;
+}
+
+.tour2 {
+  cursor: pointer;
+  font-size: var(--text-article-size);
+  font-weight: 500;
+  line-height: 26px;
+  font-family: var(--text-article);
+  color: var(--background-light);
+  text-align: left;
+  background-color: #0000;
+  border: 0;
+  padding: 0;
+  display: inline-block;
+  top: calc(50% - 13px);
+  left: 0;
+}
+
+.menu8 {
+  width: 45.99%;
+  height: 26px;
+  top: calc(50% - 11px);
+  left: 27.06%;
+  right: 26.95%;
+}
+
+.startup-312 {
+  letter-spacing: -.29px;
+  position: absolute;
+  top: -6px;
+  left: 2px;
+}
+
+.header-menu11, .white8, .white9 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  inset: 0;
+}
+
+.header-menu11, .white8 {
+  width: 11.42%;
+  height: 47.5%;
+  top: 27.5%;
+  bottom: 25%;
+  right: 88.58%;
+}
+
+.header-menu11 {
+  font-size: var(--font-size-5xl);
+  width: 69.43%;
+  height: 6.15%;
+  inset: 8.31% 15.36% 85.54% 15.21%;
+}
+
+.header-13 {
+  background-color: var(--background-dark);
+  text-align: center;
+  font-size: var(--heading-h1-hero-size);
+  color: var(--background-light);
+  font-family: var(--text-article);
+  width: 100%;
+  height: 650px;
+  position: relative;
+  overflow: hidden;
+}
+
+/*# sourceMappingURL=header-13.77db7e4e.css.map */

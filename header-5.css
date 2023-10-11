@@ -1,0 +1,251 @@
+.you-can-easily {
+  position: absolute;
+  width: 28.28%;
+  top: 13.63%;
+  left: 71.72%;
+  line-height: 28px;
+  font-weight: 500;
+  display: inline-block;
+}
+.line-icon {
+  position: absolute;
+  height: 95.88%;
+  width: 0.18%;
+  top: -0.75%;
+  right: 32.36%;
+  bottom: 4.87%;
+  left: 67.46%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  opacity: 0.3;
+  mix-blend-mode: normal;
+}
+.there-are-a {
+  position: absolute;
+  width: 28.28%;
+  top: 13.63%;
+  left: 35.55%;
+  line-height: 28px;
+  font-weight: 500;
+  display: inline-block;
+}
+.line-icon1 {
+  position: absolute;
+  height: 95.88%;
+  width: 0.18%;
+  top: 4.87%;
+  right: 68.18%;
+  bottom: -0.75%;
+  left: 31.64%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  opacity: 0.3;
+  mix-blend-mode: normal;
+}
+.startup-framework-wo {
+  position: absolute;
+  width: 28.28%;
+  top: 13.63%;
+  left: 0;
+  line-height: 28px;
+  font-weight: 500;
+  display: inline-block;
+}
+.features3 {
+  position: absolute;
+  height: 10.43%;
+  width: 79.57%;
+  top: 84.92%;
+  right: 10.21%;
+  bottom: 4.65%;
+  left: 10.21%;
+  color: var(--colors-text);
+}
+.macbook-pro-icon {
+  position: absolute;
+  height: 42.27%;
+  width: 67.14%;
+  top: 37.58%;
+  right: 16.43%;
+  bottom: 20.16%;
+  left: 16.43%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rectangle7 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-81xl);
+  background-color: var(--action-primary);
+}
+.sign-up5 {
+  position: absolute;
+  top: calc(50% - 13px);
+  left: calc(50% - 55px);
+  font-size: var(--buttons-big-size);
+  line-height: 26px;
+  font-weight: 500;
+  font-family: var(--text-article);
+  color: var(--background-light);
+  text-align: center;
+}
+.big-fill2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  height: 4.69%;
+  width: 12.14%;
+  top: 27.19%;
+  right: 43.93%;
+  bottom: 68.13%;
+  left: 43.93%;
+}
+.a-high-quality-solut1 {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  left: 0;
+  letter-spacing: -1px;
+  line-height: 70px;
+  display: inline-block;
+}
+.text4 {
+  position: absolute;
+  height: 10.94%;
+  width: 59.93%;
+  top: 12.03%;
+  right: 20%;
+  bottom: 77.03%;
+  left: 20.07%;
+  font-size: var(--heading-h2-header-size);
+}
+.rectangle8 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-81xl);
+  border: 2px solid var(--colors-grey);
+  box-sizing: border-box;
+}
+.sign-up6 {
+  position: absolute;
+  top: calc(50% - 13px);
+  left: calc(50% - 28px);
+  font-size: var(--text-article-size);
+  line-height: 26px;
+  font-weight: 500;
+  font-family: var(--text-article);
+  color: var(--colors-heading);
+  text-align: center;
+}
+.about,
+.how-it-works,
+.login1,
+.middle-dark-outline,
+.portfolio,
+.pricing1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+}
+.middle-dark-outline {
+  height: 100%;
+  width: 8.55%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 91.45%;
+}
+.about,
+.how-it-works,
+.login1,
+.portfolio,
+.pricing1 {
+  top: calc(50% - 13px);
+  left: 90.32%;
+  font-size: var(--text-article-size);
+  line-height: 26px;
+  font-weight: 500;
+  font-family: var(--text-article);
+  color: var(--colors-heading);
+  text-align: left;
+  display: inline-block;
+}
+.about,
+.how-it-works,
+.portfolio,
+.pricing1 {
+  left: 72.47%;
+}
+.how-it-works,
+.portfolio,
+.pricing1 {
+  left: 52.9%;
+}
+.how-it-works,
+.portfolio {
+  left: 22.15%;
+}
+.portfolio {
+  left: 0;
+}
+.menu3 {
+  position: absolute;
+  width: 39.74%;
+  top: calc(50% - 14px);
+  right: 11.28%;
+  left: 48.97%;
+  height: 26px;
+}
+.startup-34 {
+  position: absolute;
+  top: -6px;
+  left: 2px;
+  letter-spacing: -0.29px;
+}
+.black3,
+.header-menu3 {
+  position: absolute;
+  height: 47.5%;
+  width: 9.49%;
+  top: 27.5%;
+  right: 90.51%;
+  bottom: 25%;
+  left: 0;
+}
+.header-menu3 {
+  height: 3.13%;
+  width: 83.57%;
+  top: 2.34%;
+  right: 8.21%;
+  bottom: 94.53%;
+  left: 8.21%;
+  font-size: var(--font-size-5xl);
+}
+.header-5 {
+  position: relative;
+  background-color: var(--background-light);
+  width: 100%;
+  height: 1280px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--text-article-size);
+  color: var(--colors-heading);
+  font-family: var(--text-article);
+}

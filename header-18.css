@@ -1,0 +1,251 @@
+.image-icon5,
+.rectangle31 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.image-icon5 {
+  width: 1400px;
+  height: 850px;
+  object-fit: cover;
+  opacity: 0.5;
+}
+.rectangle31 {
+  height: 100%;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  border-radius: var(--br-81xl);
+  background-color: var(--background-light);
+}
+.sign-up30 {
+  position: absolute;
+  top: calc(50% - 13px);
+  left: calc(50% - 55px);
+  font-size: var(--buttons-big-size);
+  line-height: 26px;
+  font-weight: 500;
+  font-family: var(--text-article);
+  color: var(--action-secondary);
+  text-align: center;
+}
+.big-fill7 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  height: 7.06%;
+  width: 12.14%;
+  top: 73.18%;
+  right: 72.64%;
+  bottom: 19.76%;
+  left: 15.21%;
+}
+.rectangle32 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-81xl);
+  border: 2px solid var(--background-light);
+  box-sizing: border-box;
+  opacity: 0.3;
+}
+.sign-up31 {
+  position: absolute;
+  top: calc(50% - 13px);
+  left: calc(50% - 53px);
+  font-size: var(--buttons-big-size);
+  line-height: 26px;
+  font-weight: 500;
+  font-family: var(--text-article);
+  color: var(--background-light);
+  text-align: center;
+}
+.big-white-outline1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  height: 7.06%;
+  width: 12.14%;
+  top: 73.18%;
+  right: 59%;
+  bottom: 19.76%;
+  left: 28.86%;
+}
+.we-have-created2 {
+  position: absolute;
+  width: 91.37%;
+  top: 75.37%;
+  left: 0.32%;
+  line-height: 32px;
+  font-weight: 500;
+  display: inline-block;
+  mix-blend-mode: normal;
+}
+.startup-framework-s {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  left: 0;
+  font-size: var(--heading-h1-hero-size);
+  letter-spacing: -1px;
+  line-height: 86px;
+  display: inline-block;
+}
+.text17 {
+  position: absolute;
+  height: 45.86%;
+  width: 44.71%;
+  top: 23.18%;
+  right: 40.07%;
+  bottom: 30.96%;
+  left: 15.21%;
+}
+.sign-up32 {
+  position: absolute;
+  top: calc(50% - 13px);
+  left: calc(50% - 32px);
+  font-size: var(--text-article-size);
+  line-height: 26px;
+  font-weight: 500;
+  font-family: var(--text-article);
+  color: var(--action-secondary);
+  text-align: center;
+}
+.middle-fill15 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  height: 100%;
+  width: 9.33%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 90.67%;
+}
+.features10,
+.get-the-app {
+  position: absolute;
+  top: calc(50% - 13px);
+}
+.get-the-app {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  left: 0;
+  font-size: var(--text-article-size);
+  line-height: 26px;
+  font-weight: 500;
+  font-family: var(--text-article);
+  color: var(--background-light);
+  text-align: left;
+  display: inline-block;
+}
+.features10 {
+  left: 24.62%;
+}
+.about6,
+.faq2,
+.features10 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  font-size: var(--text-article-size);
+  line-height: 26px;
+  font-weight: 500;
+  font-family: var(--text-article);
+  color: var(--background-light);
+  text-align: left;
+  display: inline-block;
+}
+.about6 {
+  position: absolute;
+  top: calc(50% - 13px);
+  left: 50.55%;
+}
+.faq2 {
+  left: 71.21%;
+}
+.faq2,
+.menu13,
+.sign-in5 {
+  position: absolute;
+  top: calc(50% - 13px);
+}
+.sign-in5 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  left: 87.69%;
+  font-size: var(--text-article-size);
+  line-height: 26px;
+  font-weight: 500;
+  font-family: var(--text-article);
+  color: var(--background-light);
+  text-align: left;
+  display: inline-block;
+}
+.menu13 {
+  width: 42.44%;
+  right: 12.31%;
+  left: 45.24%;
+  height: 26px;
+}
+.startup-317 {
+  position: absolute;
+  top: -6px;
+  left: 2px;
+  letter-spacing: -0.29px;
+}
+.header-menu16,
+.white16,
+.white17 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.header-menu16,
+.white16 {
+  height: 47.5%;
+  width: 10.35%;
+  top: 27.5%;
+  right: 89.65%;
+  bottom: 25%;
+}
+.header-menu16 {
+  height: 4.71%;
+  width: 76.57%;
+  top: 7.06%;
+  right: 8.21%;
+  bottom: 88.24%;
+  left: 15.21%;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+}
+.header-18 {
+  position: relative;
+  background-color: var(--background-dark);
+  width: 100%;
+  height: 850px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--heading-h5-lead-size);
+  color: var(--background-light);
+  font-family: var(--text-article);
+}

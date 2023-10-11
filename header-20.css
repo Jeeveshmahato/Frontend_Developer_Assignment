@@ -1,0 +1,147 @@
+.the-most-important2 {
+  position: absolute;
+  width: 79.21%;
+  top: 65.14%;
+  left: 0.79%;
+  line-height: 32px;
+  font-weight: 500;
+  display: inline-block;
+  mix-blend-mode: normal;
+}
+.lets-make-design1 {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  left: 0;
+  font-size: var(--heading-h1-hero-size);
+  letter-spacing: -1px;
+  line-height: 86px;
+  display: inline-block;
+}
+.text19 {
+  position: absolute;
+  height: 42.9%;
+  width: 36.07%;
+  top: 25.79%;
+  right: 13.21%;
+  bottom: 31.31%;
+  left: 50.71%;
+}
+.startup-319 {
+  position: absolute;
+  top: -6px;
+  left: 2px;
+  letter-spacing: -0.29px;
+}
+.white18,
+.white19 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.white18 {
+  height: 1.78%;
+  width: 7.93%;
+  top: 20.56%;
+  right: 41.14%;
+  bottom: 77.66%;
+  left: 50.93%;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+}
+.hero-iphone-x3,
+.rectangle-icon2 {
+  position: absolute;
+  top: 12.86px;
+  left: 6.38px;
+  width: 256px;
+  height: 728px;
+  object-fit: cover;
+}
+.hero-iphone-x3 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.hero-iphone-x2 {
+  position: absolute;
+  top: 154px;
+  left: 315px;
+  width: 269.76px;
+  height: 744.97px;
+}
+.fa-reorder {
+  position: absolute;
+  top: calc(50% - 10.5px);
+  left: 0;
+  font-size: var(--text-article-size);
+  font-family: var(--font-awesome);
+  color: var(--background-light);
+  text-align: right;
+}
+.header-menu18 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  width: 1.14%;
+  top: calc(50% - 462px);
+  right: 15.36%;
+  left: 83.5%;
+  height: 21px;
+}
+.rectangle35 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-81xl);
+  background-color: var(--action-primary);
+}
+.sign-up34 {
+  position: absolute;
+  top: calc(50% - 13px);
+  left: calc(50% - 55px);
+  font-size: var(--buttons-big-size);
+  line-height: 26px;
+  font-weight: 500;
+  font-family: var(--text-article);
+  color: var(--background-light);
+  text-align: center;
+}
+.big-fill8 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 772px;
+  left: 715px;
+  width: 170px;
+  height: 60px;
+}
+.header-20 {
+  position: relative;
+  background-color: var(--background-dark);
+  width: 100%;
+  height: 1070px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--heading-h5-lead-size);
+  color: var(--background-light);
+  font-family: var(--text-article);
+}

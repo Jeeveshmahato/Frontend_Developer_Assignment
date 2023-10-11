@@ -1,0 +1,229 @@
+.ipad-pro-icon,
+.screen-icon {
+  position: absolute;
+  top: -615px;
+  left: 0;
+  width: 470.44px;
+  height: 615px;
+  object-fit: cover;
+}
+.screen-icon {
+  top: -595.34px;
+  left: 20.29px;
+  border-radius: 11px;
+  width: 430.5px;
+  height: 576.32px;
+}
+.ipad-pro {
+  position: absolute;
+  top: 788px;
+  left: 715px;
+  width: 615px;
+  height: 470.44px;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+}
+.rectangle18 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-81xl);
+  background-color: var(--action-primary);
+}
+.sign-up15 {
+  position: absolute;
+  top: calc(50% - 13px);
+  left: calc(50% - 49.5px);
+  font-size: var(--text-article-size);
+  line-height: 26px;
+  font-weight: 500;
+  font-family: var(--text-article);
+  color: var(--background-light);
+  text-align: center;
+}
+.middle-fill6,
+.sign-up16 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+}
+.middle-fill6 {
+  height: 10.57%;
+  width: 38.25%;
+  top: 89.43%;
+  right: 61.25%;
+  bottom: 0;
+  left: 0.5%;
+}
+.sign-up16 {
+  top: calc(50% + 198.5px);
+  left: calc(50% - 10px);
+  font-size: var(--text-article-size);
+  line-height: 26px;
+  font-weight: 500;
+  font-family: var(--text-article);
+  color: var(--colors-heading);
+  text-align: center;
+  display: inline-block;
+}
+.we-havent-forgotten,
+.you-have-the1 {
+  position: absolute;
+  left: 0;
+  display: inline-block;
+}
+.we-havent-forgotten {
+  width: 92.5%;
+  top: 49.68%;
+  line-height: 32px;
+  font-weight: 500;
+  opacity: 0.7;
+  mix-blend-mode: normal;
+}
+.you-have-the1 {
+  width: 100%;
+  top: 0;
+  font-size: var(--heading-h2-header-size);
+  letter-spacing: -1px;
+  line-height: 70px;
+  color: var(--colors-heading);
+}
+.rectangle19,
+.text10 {
+  position: absolute;
+  height: 50.86%;
+  width: 28.57%;
+  top: 23.66%;
+  right: 56.07%;
+  bottom: 25.48%;
+  left: 15.36%;
+}
+.rectangle19 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-81xl);
+  background-color: var(--action-secondary);
+}
+.sign-up17 {
+  position: absolute;
+  top: calc(50% - 13px);
+  left: calc(50% - 16px);
+  font-size: var(--text-article-size);
+  line-height: 26px;
+  font-weight: 500;
+  font-family: var(--text-article);
+  color: var(--background-light);
+  text-align: center;
+}
+.about2,
+.middle-fill7,
+.tour {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+}
+.middle-fill7 {
+  position: absolute;
+  height: 100%;
+  width: 20.83%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 79.17%;
+}
+.about2,
+.tour {
+  top: calc(50% - 13px);
+  font-size: var(--text-article-size);
+  line-height: 26px;
+  font-weight: 500;
+  font-family: var(--text-article);
+  color: var(--colors-heading);
+  text-align: left;
+  display: inline-block;
+}
+.about2 {
+  position: absolute;
+  left: 50%;
+}
+.tour {
+  left: 21.88%;
+}
+.menu7,
+.tour,
+.tour1 {
+  position: absolute;
+}
+.tour1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: calc(50% - 13px);
+  left: 0;
+  font-size: var(--text-article-size);
+  line-height: 26px;
+  font-weight: 500;
+  font-family: var(--text-article);
+  color: var(--colors-heading);
+  text-align: left;
+  display: inline-block;
+  opacity: 0.3;
+}
+.menu7 {
+  height: 100%;
+  width: 39.59%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 60.41%;
+}
+.startup-310 {
+  position: absolute;
+  top: -6px;
+  left: 2px;
+  letter-spacing: -0.29px;
+}
+.black6,
+.header-menu9 {
+  position: absolute;
+  height: 47.5%;
+  width: 11.44%;
+  top: 15%;
+  right: 88.56%;
+  bottom: 37.5%;
+  left: 0;
+}
+.header-menu9 {
+  height: 4.3%;
+  width: 69.29%;
+  top: 7.1%;
+  right: 15.36%;
+  bottom: 88.6%;
+  left: 15.36%;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  color: var(--colors-heading);
+}
+.header-11 {
+  position: relative;
+  background-color: var(--background-light);
+  width: 100%;
+  height: 930px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--heading-h5-lead-size);
+  color: var(--colors-text);
+  font-family: var(--text-article);
+}

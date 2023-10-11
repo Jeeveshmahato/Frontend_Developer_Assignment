@@ -1,0 +1,244 @@
+.rectangle34 {
+  border-radius: var(--br-81xl);
+  background-color: var(--action-secondary);
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  inset: 0;
+}
+
+.sign-up33 {
+  font-size: var(--text-article-size);
+  font-weight: 500;
+  line-height: 26px;
+  font-family: var(--text-article);
+  color: var(--background-light);
+  text-align: center;
+  position: absolute;
+  top: calc(50% - 13px);
+  left: calc(50% - 109px);
+}
+
+.middle-fill16 {
+  cursor: pointer;
+  background-color: #0000;
+  border: 0;
+  width: 63.83%;
+  height: 12.22%;
+  padding: 0;
+  position: absolute;
+  inset: 87.78% 36.17% 0 0;
+}
+
+.the-best-apple {
+  letter-spacing: -1px;
+  width: 99.79%;
+  line-height: 70px;
+  display: inline-block;
+  position: absolute;
+  top: 0;
+  left: .21%;
+}
+
+.startup-framework-gi2 {
+  font-size: var(--heading-h5-lead-size);
+  color: var(--colors-text);
+  opacity: .7;
+  mix-blend-mode: normal;
+  width: 97.45%;
+  font-weight: 500;
+  line-height: 32px;
+  display: inline-block;
+  position: absolute;
+  top: 36.05%;
+  left: 0;
+}
+
+.text18 {
+  width: 33.57%;
+  height: 54.56%;
+  position: absolute;
+  inset: 28.11% 51.07% 17.33% 15.36%;
+}
+
+.about7, .blog7, .contact-us, .fa-apple, .fa-product-hunt, .features11 {
+  cursor: pointer;
+  font-size: var(--text-article-size);
+  font-family: var(--font-awesome);
+  color: var(--colors-text);
+  text-align: left;
+  background-color: #0000;
+  border: 0;
+  padding: 0;
+  display: inline-block;
+  position: absolute;
+  top: calc(50% - 10.4px);
+  left: 86.78%;
+}
+
+.about7, .blog7, .contact-us, .fa-apple, .features11 {
+  left: 97.21%;
+}
+
+.about7, .blog7, .contact-us, .features11 {
+  font-size: var(--text-paragraph-size);
+  font-weight: 500;
+  line-height: 22px;
+  font-family: var(--text-article);
+  top: calc(50% - 11px);
+  left: 50.65%;
+}
+
+.about7, .contact-us, .features11 {
+  left: 64.06%;
+}
+
+.about7, .features11 {
+  left: 35.01%;
+}
+
+.features11 {
+  left: 15.64%;
+}
+
+.home3, .menu14 {
+  position: absolute;
+  left: 0;
+}
+
+.home3 {
+  cursor: pointer;
+  font-size: var(--text-paragraph-size);
+  font-weight: 500;
+  line-height: 22px;
+  font-family: var(--text-article);
+  color: var(--colors-text);
+  text-align: left;
+  background-color: #0000;
+  border: 0;
+  padding: 0;
+  display: inline-block;
+  top: calc(50% - 11px);
+}
+
+.menu14 {
+  width: 100%;
+  height: 22px;
+  top: calc(50% + 18.2px);
+  right: 0;
+}
+
+.startup-318 {
+  letter-spacing: -.29px;
+  position: absolute;
+  top: -6px;
+  left: 2px;
+}
+
+.black8 {
+  width: 20.67%;
+  height: 23.63%;
+  position: absolute;
+  inset: 0 39.66% 76.37%;
+}
+
+.header-menu17 {
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  width: 38.36%;
+  height: 80.4px;
+  position: absolute;
+  top: calc(50% - 354px);
+  left: 30.86%;
+  right: 30.79%;
+}
+
+.fa-circle1 {
+  width: 12.09%;
+  line-height: 36px;
+  display: inline-block;
+  top: calc(50% - 5.5px);
+  left: 87.91%;
+}
+
+.fa-circle1, .fa-circle2, .fa-circle3 {
+  height: 11px;
+  position: absolute;
+}
+
+.fa-circle2 {
+  width: 12.09%;
+  line-height: 36px;
+  display: inline-block;
+  top: calc(50% - 5.5px);
+  left: 65.93%;
+}
+
+.fa-circle3 {
+  left: 43.96%;
+}
+
+.fa-circle3, .fa-circle4, .fa-circle5 {
+  width: 12.09%;
+  line-height: 36px;
+  display: inline-block;
+  top: calc(50% - 5.5px);
+}
+
+.fa-circle4 {
+  height: 11px;
+  position: absolute;
+  left: 21.98%;
+}
+
+.fa-circle5 {
+  color: var(--action-third);
+  left: 0;
+}
+
+.dots1, .fa-circle5, .paginator-black {
+  height: 11px;
+  position: absolute;
+}
+
+.dots1 {
+  width: 100%;
+  top: calc(50% - 5.5px);
+  left: 0;
+  right: 0;
+}
+
+.paginator-black {
+  transform-origin: 0 0;
+  font-size: var(--font-size-xs);
+  color: var(--colors-grey);
+  font-family: var(--font-awesome);
+  width: 91px;
+  top: 408px;
+  left: 126px;
+  overflow: hidden;
+  transform: rotate(90deg);
+}
+
+.image-icon6 {
+  object-fit: cover;
+  width: 395px;
+  height: 515px;
+  position: absolute;
+  top: 250px;
+  left: 767px;
+}
+
+.header-19 {
+  background-color: var(--background-light);
+  text-align: left;
+  font-size: var(--heading-h2-header-size);
+  color: var(--colors-heading);
+  font-family: var(--text-article);
+  width: 100%;
+  height: 900px;
+  position: relative;
+  overflow: hidden;
+}
+
+/*# sourceMappingURL=header-19.0cecee11.css.map */

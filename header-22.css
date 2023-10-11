@@ -1,0 +1,357 @@
+.background-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1400px;
+  height: 790px;
+  object-fit: cover;
+  opacity: 0.6;
+}
+.rectangle39 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-81xl);
+  border: 2px solid var(--background-light);
+  box-sizing: border-box;
+  opacity: 0.3;
+}
+.sign-up37 {
+  position: absolute;
+  top: calc(50% - 11px);
+  left: calc(50% - 28px);
+  font-size: var(--text-paragraph-size);
+  line-height: 22px;
+  font-weight: 500;
+  font-family: var(--text-article);
+  color: var(--background-light);
+  text-align: center;
+}
+.help2,
+.login5,
+.small-white-outline2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+}
+.small-white-outline2 {
+  height: 100%;
+  width: 38.84%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 61.16%;
+}
+.help2,
+.login5 {
+  top: calc(50% - 11px);
+  left: 31.4%;
+  font-size: var(--text-paragraph-size);
+  line-height: 22px;
+  font-weight: 500;
+  font-family: var(--text-article);
+  color: var(--background-light);
+  text-align: left;
+  display: inline-block;
+}
+.help2 {
+  left: 0;
+}
+.sign-in6 {
+  position: absolute;
+  height: 100%;
+  width: 24.92%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 75.08%;
+}
+.startup-321 {
+  position: absolute;
+  top: -6px;
+  left: 2px;
+  letter-spacing: -0.29px;
+}
+.white22,
+.white23 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.white22 {
+  height: 47.5%;
+  width: 11.43%;
+  top: 15%;
+  right: 88.57%;
+  bottom: 37.5%;
+}
+.pricing9 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  left: 36.5%;
+  font-size: var(--text-paragraph-size);
+  line-height: 22px;
+  font-weight: 500;
+  font-family: var(--text-article);
+  color: var(--background-light);
+  text-align: left;
+  display: inline-block;
+}
+.community3,
+.menu16,
+.pricing9 {
+  position: absolute;
+  top: calc(50% - 11px);
+}
+.community3 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  left: 67.15%;
+  font-size: var(--text-paragraph-size);
+  line-height: 22px;
+  font-weight: 500;
+  font-family: var(--text-article);
+  color: var(--background-light);
+  text-align: left;
+  display: inline-block;
+}
+.menu16 {
+  width: 28.22%;
+  right: 57.26%;
+  left: 14.52%;
+  height: 22px;
+}
+.header-menu20 {
+  position: absolute;
+  height: 5.06%;
+  width: 69.36%;
+  top: 6.33%;
+  right: 15.36%;
+  bottom: 88.61%;
+  left: 15.29%;
+  text-align: center;
+}
+.the-amazing-hubble {
+  position: absolute;
+  top: 0;
+  left: 51px;
+  letter-spacing: -1px;
+  line-height: 70px;
+}
+.the-first-area,
+.title {
+  position: absolute;
+  width: 718px;
+}
+.the-first-area {
+  top: 90px;
+  left: 0;
+  font-size: var(--heading-h5-lead-size);
+  line-height: 32px;
+  font-weight: 500;
+  text-align: center;
+  display: inline-block;
+  height: 97px;
+}
+.title {
+  top: 200px;
+  left: 341px;
+  height: 187px;
+  font-size: var(--heading-h2-header-size);
+}
+.rectangle40 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-81xl);
+  background-color: var(--action-third);
+}
+.sign-up38 {
+  position: absolute;
+  top: calc(50% - 13px);
+  left: calc(50% - 55px);
+  font-size: var(--buttons-big-size);
+  line-height: 26px;
+  font-weight: 500;
+  font-family: var(--text-article);
+  color: var(--background-light);
+  text-align: center;
+}
+.big-fill9,
+.big-white-outline2,
+.big-white-outline3 {
+  border: 0;
+  background-color: transparent;
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+}
+.big-fill9 {
+  cursor: pointer;
+  padding: 0;
+  width: 17.53%;
+  right: 0;
+  left: 82.47%;
+}
+.big-white-outline2,
+.big-white-outline3 {
+  font-weight: 500;
+  font-family: var(--text-article);
+  font-size: var(--buttons-big-size);
+  width: 38.14%;
+  right: 61.86%;
+  left: 0;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.3);
+}
+.big-white-outline3 {
+  right: 20.62%;
+  left: 41.24%;
+}
+.form {
+  position: absolute;
+  height: 7.59%;
+  width: 69.29%;
+  top: 58.23%;
+  right: 15.36%;
+  bottom: 34.18%;
+  left: 15.36%;
+}
+.ellipse,
+.or-sign-up {
+  position: absolute;
+  top: 0;
+}
+.or-sign-up {
+  left: 50px;
+  letter-spacing: 2px;
+  line-height: 26px;
+  text-transform: uppercase;
+}
+.ellipse {
+  left: 0;
+  border-radius: 50%;
+  border: 2px solid var(--background-light);
+  box-sizing: border-box;
+  width: 40px;
+  height: 40px;
+  opacity: 0.2;
+}
+.fa-twitter2 {
+  position: absolute;
+  width: 37.5%;
+  top: calc(50% - 8px);
+  left: 32.5%;
+  font-size: var(--text-article-size);
+  font-family: var(--font-awesome);
+  color: var(--background-light);
+  text-align: center;
+  display: inline-block;
+  height: 18px;
+}
+.twitter {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 40px;
+  height: 40px;
+}
+.fa-twitter3 {
+  position: absolute;
+  width: 37.5%;
+  top: calc(50% - 8px);
+  left: 30%;
+  font-size: var(--text-article-size);
+  font-family: var(--font-awesome);
+  color: var(--background-light);
+  text-align: left;
+  display: inline-block;
+  height: 18px;
+}
+.twitter1,
+.twitter2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 0;
+  left: 140px;
+  width: 40px;
+  height: 40px;
+}
+.twitter2 {
+  left: 210px;
+}
+.fa-twitter5 {
+  position: absolute;
+  width: 37.5%;
+  top: calc(50% - 8px);
+  left: 30%;
+  font-size: var(--text-article-size);
+  font-family: var(--font-awesome);
+  color: var(--background-light);
+  text-align: center;
+  display: inline-block;
+  height: 18px;
+}
+.group,
+.social,
+.twitter3 {
+  position: absolute;
+  height: 40px;
+}
+.twitter3 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 0;
+  left: 70px;
+  width: 40px;
+}
+.group,
+.social {
+  top: 46px;
+  left: 0;
+  width: 250px;
+}
+.social {
+  top: 604px;
+  left: 575px;
+  height: 86px;
+  font-size: var(--text-label-size);
+}
+.header-22 {
+  position: relative;
+  background-color: var(--background-dark);
+  width: 100%;
+  height: 790px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--background-light);
+  font-family: var(--text-article);
+}

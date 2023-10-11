@@ -1,0 +1,222 @@
+.ipad-pro-icon, .screen-icon {
+  object-fit: cover;
+  width: 470.44px;
+  height: 615px;
+  position: absolute;
+  top: -615px;
+  left: 0;
+}
+
+.screen-icon {
+  border-radius: 11px;
+  width: 430.5px;
+  height: 576.32px;
+  top: -595.34px;
+  left: 20.29px;
+}
+
+.ipad-pro {
+  transform-origin: 0 0;
+  width: 615px;
+  height: 470.44px;
+  position: absolute;
+  top: 788px;
+  left: 715px;
+  transform: rotate(-90deg);
+}
+
+.rectangle18 {
+  border-radius: var(--br-81xl);
+  background-color: var(--action-primary);
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  inset: 0;
+}
+
+.sign-up15 {
+  font-size: var(--text-article-size);
+  font-weight: 500;
+  line-height: 26px;
+  font-family: var(--text-article);
+  color: var(--background-light);
+  text-align: center;
+  position: absolute;
+  top: calc(50% - 13px);
+  left: calc(50% - 49.5px);
+}
+
+.middle-fill6, .sign-up16 {
+  cursor: pointer;
+  background-color: #0000;
+  border: 0;
+  padding: 0;
+  position: absolute;
+}
+
+.middle-fill6 {
+  width: 38.25%;
+  height: 10.57%;
+  inset: 89.43% 61.25% 0 .5%;
+}
+
+.sign-up16 {
+  font-size: var(--text-article-size);
+  font-weight: 500;
+  line-height: 26px;
+  font-family: var(--text-article);
+  color: var(--colors-heading);
+  text-align: center;
+  display: inline-block;
+  top: calc(50% + 198.5px);
+  left: calc(50% - 10px);
+}
+
+.we-havent-forgotten, .you-have-the1 {
+  display: inline-block;
+  position: absolute;
+  left: 0;
+}
+
+.we-havent-forgotten {
+  opacity: .7;
+  mix-blend-mode: normal;
+  width: 92.5%;
+  font-weight: 500;
+  line-height: 32px;
+  top: 49.68%;
+}
+
+.you-have-the1 {
+  font-size: var(--heading-h2-header-size);
+  letter-spacing: -1px;
+  color: var(--colors-heading);
+  width: 100%;
+  line-height: 70px;
+  top: 0;
+}
+
+.rectangle19, .text10 {
+  width: 28.57%;
+  height: 50.86%;
+  position: absolute;
+  inset: 23.66% 56.07% 25.48% 15.36%;
+}
+
+.rectangle19 {
+  border-radius: var(--br-81xl);
+  background-color: var(--action-secondary);
+  width: 100%;
+  height: 100%;
+  inset: 0;
+}
+
+.sign-up17 {
+  font-size: var(--text-article-size);
+  font-weight: 500;
+  line-height: 26px;
+  font-family: var(--text-article);
+  color: var(--background-light);
+  text-align: center;
+  position: absolute;
+  top: calc(50% - 13px);
+  left: calc(50% - 16px);
+}
+
+.about2, .middle-fill7, .tour {
+  cursor: pointer;
+  background-color: #0000;
+  border: 0;
+  padding: 0;
+}
+
+.middle-fill7 {
+  width: 20.83%;
+  height: 100%;
+  position: absolute;
+  inset: 0 0 0 79.17%;
+}
+
+.about2, .tour {
+  font-size: var(--text-article-size);
+  font-weight: 500;
+  line-height: 26px;
+  font-family: var(--text-article);
+  color: var(--colors-heading);
+  text-align: left;
+  display: inline-block;
+  top: calc(50% - 13px);
+}
+
+.about2 {
+  position: absolute;
+  left: 50%;
+}
+
+.tour {
+  left: 21.88%;
+}
+
+.menu7, .tour, .tour1 {
+  position: absolute;
+}
+
+.tour1 {
+  cursor: pointer;
+  font-size: var(--text-article-size);
+  font-weight: 500;
+  line-height: 26px;
+  font-family: var(--text-article);
+  color: var(--colors-heading);
+  text-align: left;
+  opacity: .3;
+  background-color: #0000;
+  border: 0;
+  padding: 0;
+  display: inline-block;
+  top: calc(50% - 13px);
+  left: 0;
+}
+
+.menu7 {
+  width: 39.59%;
+  height: 100%;
+  inset: 0 0 0 60.41%;
+}
+
+.startup-310 {
+  letter-spacing: -.29px;
+  position: absolute;
+  top: -6px;
+  left: 2px;
+}
+
+.black6, .header-menu9 {
+  width: 11.44%;
+  height: 47.5%;
+  position: absolute;
+  inset: 15% 88.56% 37.5% 0;
+}
+
+.header-menu9 {
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  color: var(--colors-heading);
+  width: 69.29%;
+  height: 4.3%;
+  inset: 7.1% 15.36% 88.6%;
+}
+
+.header-11 {
+  background-color: var(--background-light);
+  text-align: left;
+  font-size: var(--heading-h5-lead-size);
+  color: var(--colors-text);
+  font-family: var(--text-article);
+  width: 100%;
+  height: 930px;
+  position: relative;
+  overflow: hidden;
+}
+
+/*# sourceMappingURL=header-11.98c8917e.css.map */

@@ -1,0 +1,238 @@
+.image-icon4 {
+  object-fit: cover;
+  opacity: .4;
+  width: 1400px;
+  height: 920px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.macbook-pro-icon1 {
+  width: 71.88%;
+  max-width: 100%;
+  height: 63.04%;
+  max-height: 100%;
+  position: absolute;
+  inset: 19.35% -30.65% 17.62% 58.77%;
+  overflow: hidden;
+}
+
+.html5-css3, .we-used-only {
+  line-height: 26px;
+  position: absolute;
+  left: .39%;
+}
+
+.html5-css3 {
+  font-weight: 500;
+  top: calc(50% - 10.4px);
+}
+
+.we-used-only {
+  font-size: var(--text-paragraph-size);
+  mix-blend-mode: normal;
+  width: 99.61%;
+  display: inline-block;
+  top: 72.52%;
+}
+
+.feature-21 {
+  width: 46.04%;
+  height: 189.2px;
+  position: absolute;
+  top: calc(50% - 107.6px);
+  left: 53.96%;
+  right: 0;
+}
+
+.based-on-bootstrap {
+  font-weight: 500;
+  top: calc(50% - 23.4px);
+  left: .39%;
+}
+
+.based-on-bootstrap, .fa-gears, .html-layout-is {
+  line-height: 26px;
+  position: absolute;
+}
+
+.html-layout-is {
+  font-size: var(--text-paragraph-size);
+  mix-blend-mode: normal;
+  width: 99.61%;
+  display: inline-block;
+  top: 63.75%;
+  left: .39%;
+}
+
+.fa-gears {
+  font-size: var(--font-size-31xl);
+  letter-spacing: 6.25px;
+  text-transform: uppercase;
+  font-family: var(--font-awesome);
+  top: 0;
+  left: 0;
+}
+
+.feature-11, .features8 {
+  width: 46.04%;
+  height: 215.2px;
+  position: absolute;
+  top: calc(50% - 107.6px);
+  left: 0;
+  right: 53.96%;
+}
+
+.features8 {
+  width: 39.71%;
+  top: calc(50% + 132px);
+  left: 15.36%;
+  right: 44.93%;
+}
+
+.build-your-own1, .we-have-created1 {
+  display: inline-block;
+  position: absolute;
+  left: 0;
+}
+
+.we-have-created1 {
+  mix-blend-mode: normal;
+  width: 100%;
+  font-weight: 500;
+  line-height: 32px;
+  top: 68%;
+}
+
+.build-your-own1 {
+  font-size: var(--heading-h1-hero-size);
+  letter-spacing: -1px;
+  width: 93.26%;
+  line-height: 86px;
+  top: 0;
+}
+
+.text15 {
+  font-size: var(--heading-h5-lead-size);
+  width: 40.29%;
+  height: 32.61%;
+  position: absolute;
+  inset: 19.35% 44.36% 48.04% 15.36%;
+}
+
+.rectangle28 {
+  border-radius: var(--br-81xl);
+  background-color: var(--action-primary);
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  inset: 0;
+}
+
+.sign-up28 {
+  font-size: var(--text-article-size);
+  font-weight: 500;
+  line-height: 26px;
+  font-family: var(--text-article);
+  color: var(--background-light);
+  text-align: center;
+  position: absolute;
+  top: calc(50% - 13px);
+  left: calc(50% - 34.5px);
+}
+
+.about5, .faq1, .middle-fill14, .prices2, .support2, .tour4 {
+  cursor: pointer;
+  background-color: #0000;
+  border: 0;
+  padding: 0;
+  position: absolute;
+}
+
+.middle-fill14 {
+  width: 10.8%;
+  height: 100%;
+  inset: 0 0 0 89.2%;
+}
+
+.about5, .faq1, .prices2, .support2, .tour4 {
+  font-size: var(--text-article-size);
+  font-weight: 500;
+  line-height: 26px;
+  font-family: var(--text-article);
+  color: var(--background-light);
+  text-align: left;
+  display: inline-block;
+  top: calc(50% - 13px);
+  left: 0;
+}
+
+.about5, .faq1, .prices2, .support2 {
+  left: 18.53%;
+}
+
+.about5, .faq1, .support2 {
+  left: 40.33%;
+}
+
+.faq1, .support2 {
+  left: 61.85%;
+}
+
+.support2 {
+  left: 80.93%;
+}
+
+.menu11 {
+  width: 37.76%;
+  height: 26px;
+  position: absolute;
+  top: calc(50% - 15px);
+  left: 13.89%;
+  right: 48.35%;
+}
+
+.startup-315 {
+  letter-spacing: -.29px;
+  position: absolute;
+  top: -6px;
+  left: 2px;
+}
+
+.header-menu14, .white12, .white13 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  inset: 0;
+}
+
+.header-menu14, .white12 {
+  width: 11.42%;
+  height: 47.5%;
+  top: 15%;
+  bottom: 37.5%;
+  right: 88.58%;
+}
+
+.header-menu14 {
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  width: 69.43%;
+  height: 4.35%;
+  inset: 4.89% 15.36% 90.76% 15.21%;
+}
+
+.header-16 {
+  background-color: var(--background-dark);
+  text-align: left;
+  font-size: var(--buttons-big-size);
+  color: var(--background-light);
+  font-family: var(--text-article);
+  width: 100%;
+  height: 920px;
+  position: relative;
+  overflow: hidden;
+}
+
+/*# sourceMappingURL=header-16.e8be7b26.css.map */

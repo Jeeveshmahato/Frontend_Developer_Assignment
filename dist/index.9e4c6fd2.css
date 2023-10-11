@@ -1,0 +1,227 @@
+.learn-more {
+  cursor: pointer;
+  font-size: var(--text-article-size);
+  letter-spacing: -.22px;
+  font-weight: 500;
+  line-height: 26px;
+  font-family: var(--font-poppins);
+  color: var(--action-primary);
+  text-align: center;
+  background-color: #0000;
+  border: 0;
+  padding: 0;
+  display: inline-block;
+  position: absolute;
+  top: calc(50% + 25.6px);
+  left: 33.67%;
+}
+
+.rectangle {
+  border-radius: var(--br-81xl);
+  background-color: var(--action-primary);
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  inset: 0;
+}
+
+.sign-up {
+  font-size: var(--buttons-big-size);
+  font-weight: 500;
+  line-height: 26px;
+  font-family: var(--text-article);
+  color: var(--background-light);
+  text-align: center;
+  position: absolute;
+  top: calc(50% - 13px);
+  left: calc(50% - 109px);
+}
+
+.big-fill {
+  cursor: pointer;
+  background-color: #0000;
+  border: 0;
+  width: 300px;
+  height: 60px;
+  padding: 0;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.butons {
+  width: 21.43%;
+  height: 103.2px;
+  position: absolute;
+  top: calc(50% + 138px);
+  left: 39.29%;
+  right: 39.29%;
+}
+
+.startup-framework, .we-made-it {
+  display: inline-block;
+  position: absolute;
+}
+
+.we-made-it {
+  width: 75.58%;
+  font-weight: 500;
+  line-height: 32px;
+  top: 56.32%;
+  left: 12.34%;
+}
+
+.startup-framework {
+  font-size: var(--heading-h1-hero-size);
+  letter-spacing: -1px;
+  color: var(--colors-heading);
+  width: 100%;
+  line-height: 86px;
+  top: calc(50% - 109.9px);
+  left: 0;
+}
+
+.sign-up1, .text {
+  position: absolute;
+}
+
+.text {
+  width: 55%;
+  height: 31.4%;
+  inset: 27% 22.5% 41.6%;
+}
+
+.sign-up1 {
+  font-size: var(--text-article-size);
+  font-weight: 500;
+  line-height: 26px;
+  font-family: var(--text-article);
+  color: var(--background-light);
+  text-align: center;
+  top: calc(50% - 13px);
+  left: calc(50% - 28px);
+}
+
+.fa-search, .middle-fill, .sign-in {
+  cursor: pointer;
+  background-color: #0000;
+  border: 0;
+  padding: 0;
+  position: absolute;
+}
+
+.middle-fill {
+  width: 100px;
+  height: 40px;
+  top: calc(50% - 20px);
+  left: calc(50% + 284.5px);
+}
+
+.fa-search, .sign-in {
+  color: var(--colors-text);
+  text-align: left;
+  display: inline-block;
+}
+
+.sign-in {
+  font-size: var(--text-article-size);
+  font-weight: 500;
+  line-height: 28px;
+  font-family: var(--text-article);
+  top: calc(50% - 12.8px);
+  left: 76.98%;
+}
+
+.fa-search {
+  font-size: var(--text-paragraph-size);
+  font-family: var(--font-awesome);
+  top: calc(50% - 9px);
+  left: 44.73%;
+}
+
+.shop {
+  position: absolute;
+  left: 35.11%;
+}
+
+.blog, .features, .shop {
+  cursor: pointer;
+  font-size: var(--text-article-size);
+  font-weight: 500;
+  line-height: 28px;
+  font-family: var(--text-article);
+  color: var(--colors-text);
+  text-align: left;
+  background-color: #0000;
+  border: 0;
+  padding: 0;
+  display: inline-block;
+  top: calc(50% - 12.8px);
+}
+
+.blog {
+  position: absolute;
+  left: 25.36%;
+}
+
+.features {
+  left: 10.92%;
+}
+
+.features, .home, .menu {
+  position: absolute;
+}
+
+.home {
+  cursor: pointer;
+  font-size: var(--text-article-size);
+  font-weight: 500;
+  line-height: 28px;
+  font-family: var(--text-article);
+  color: var(--colors-text);
+  text-align: left;
+  background-color: #0000;
+  border: 0;
+  padding: 0;
+  display: inline-block;
+  top: calc(50% - 12.8px);
+  left: 0;
+}
+
+.menu {
+  width: 769px;
+  height: 40px;
+  top: calc(50% - 290px);
+  left: calc(50% - 179px);
+}
+
+.startup-3 {
+  letter-spacing: -.29px;
+  position: absolute;
+  top: -6px;
+  left: 2px;
+}
+
+.black {
+  font-size: var(--font-size-5xl);
+  color: var(--colors-heading);
+  width: 111px;
+  height: 19px;
+  position: absolute;
+  top: 71px;
+  left: 115px;
+}
+
+.header-1 {
+  background-color: var(--background-light);
+  text-align: center;
+  font-size: var(--heading-h5-lead-size);
+  color: var(--colors-text);
+  font-family: var(--text-article);
+  width: 100%;
+  height: 700px;
+  position: relative;
+  overflow: hidden;
+}
+
+/*# sourceMappingURL=index.9e4c6fd2.css.map */

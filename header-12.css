@@ -1,0 +1,129 @@
+.hero-iphone-x {
+  position: absolute;
+  height: 80.52%;
+  width: 27.14%;
+  top: 9.79%;
+  right: 21.79%;
+  bottom: 9.7%;
+  left: 51.07%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.hero-iphone-x-clay,
+.hero-iphone-x1 {
+  position: absolute;
+  top: 129px;
+  left: 843px;
+  width: 341.92px;
+  height: 683.32px;
+  object-fit: cover;
+}
+.hero-iphone-x1 {
+  top: 92px;
+  left: 715px;
+  width: 379.91px;
+  height: 756.86px;
+}
+.rectangle20 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-81xl);
+  background-color: var(--action-primary);
+}
+.sign-up18 {
+  position: absolute;
+  top: calc(50% - 13px);
+  left: calc(50% - 108.5px);
+  font-size: var(--text-article-size);
+  line-height: 26px;
+  font-weight: 500;
+  font-family: var(--text-article);
+  color: var(--background-light);
+  text-align: center;
+}
+.middle-fill8 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  height: 6.38%;
+  width: 19.64%;
+  top: 77.02%;
+  right: 65.07%;
+  bottom: 16.6%;
+  left: 15.29%;
+}
+.a-high-quality-solut5 {
+  position: absolute;
+  width: 92.52%;
+  top: 79.62%;
+  left: 0;
+  line-height: 32px;
+  font-weight: 500;
+  display: inline-block;
+  mix-blend-mode: normal;
+}
+.beautiful-startup-fr {
+  position: absolute;
+  width: 99.75%;
+  top: 0;
+  left: 0.25%;
+  font-size: var(--heading-h2-header-size);
+  letter-spacing: -1px;
+  line-height: 70px;
+  display: inline-block;
+}
+.text11 {
+  position: absolute;
+  height: 50.11%;
+  width: 28.64%;
+  top: 22.87%;
+  right: 56.07%;
+  bottom: 27.02%;
+  left: 15.29%;
+}
+.startup-311 {
+  position: absolute;
+  top: -6px;
+  left: 2px;
+  letter-spacing: -0.29px;
+}
+.header-menu10,
+.white6 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.header-menu10 {
+  height: 2.02%;
+  width: 7.93%;
+  top: 17.02%;
+  right: 76.71%;
+  bottom: 80.96%;
+  left: 15.36%;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+}
+.header-12 {
+  position: relative;
+  background-color: var(--background-dark);
+  width: 100%;
+  height: 940px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--heading-h5-lead-size);
+  color: var(--background-light);
+  font-family: var(--text-article);
+}

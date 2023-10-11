@@ -1,0 +1,247 @@
+.image-icon4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1400px;
+  height: 920px;
+  object-fit: cover;
+  opacity: 0.4;
+}
+.macbook-pro-icon1 {
+  position: absolute;
+  height: 63.04%;
+  width: 71.88%;
+  top: 19.35%;
+  right: -30.65%;
+  bottom: 17.62%;
+  left: 58.77%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.html5-css3,
+.we-used-only {
+  position: absolute;
+  left: 0.39%;
+  line-height: 26px;
+}
+.html5-css3 {
+  top: calc(50% - 10.4px);
+  font-weight: 500;
+}
+.we-used-only {
+  width: 99.61%;
+  top: 72.52%;
+  font-size: var(--text-paragraph-size);
+  display: inline-block;
+  mix-blend-mode: normal;
+}
+.feature-21 {
+  position: absolute;
+  width: 46.04%;
+  top: calc(50% - 107.6px);
+  right: 0;
+  left: 53.96%;
+  height: 189.2px;
+}
+.based-on-bootstrap {
+  top: calc(50% - 23.4px);
+  left: 0.39%;
+  font-weight: 500;
+}
+.based-on-bootstrap,
+.fa-gears,
+.html-layout-is {
+  position: absolute;
+  line-height: 26px;
+}
+.html-layout-is {
+  width: 99.61%;
+  top: 63.75%;
+  left: 0.39%;
+  font-size: var(--text-paragraph-size);
+  display: inline-block;
+  mix-blend-mode: normal;
+}
+.fa-gears {
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-31xl);
+  letter-spacing: 6.25px;
+  text-transform: uppercase;
+  font-family: var(--font-awesome);
+}
+.feature-11,
+.features8 {
+  position: absolute;
+  width: 46.04%;
+  top: calc(50% - 107.6px);
+  right: 53.96%;
+  left: 0;
+  height: 215.2px;
+}
+.features8 {
+  width: 39.71%;
+  top: calc(50% + 132px);
+  right: 44.93%;
+  left: 15.36%;
+}
+.build-your-own1,
+.we-have-created1 {
+  position: absolute;
+  left: 0;
+  display: inline-block;
+}
+.we-have-created1 {
+  width: 100%;
+  top: 68%;
+  line-height: 32px;
+  font-weight: 500;
+  mix-blend-mode: normal;
+}
+.build-your-own1 {
+  width: 93.26%;
+  top: 0;
+  font-size: var(--heading-h1-hero-size);
+  letter-spacing: -1px;
+  line-height: 86px;
+}
+.text15 {
+  position: absolute;
+  height: 32.61%;
+  width: 40.29%;
+  top: 19.35%;
+  right: 44.36%;
+  bottom: 48.04%;
+  left: 15.36%;
+  font-size: var(--heading-h5-lead-size);
+}
+.rectangle28 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-81xl);
+  background-color: var(--action-primary);
+}
+.sign-up28 {
+  position: absolute;
+  top: calc(50% - 13px);
+  left: calc(50% - 34.5px);
+  font-size: var(--text-article-size);
+  line-height: 26px;
+  font-weight: 500;
+  font-family: var(--text-article);
+  color: var(--background-light);
+  text-align: center;
+}
+.about5,
+.faq1,
+.middle-fill14,
+.prices2,
+.support2,
+.tour4 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+}
+.middle-fill14 {
+  height: 100%;
+  width: 10.8%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 89.2%;
+}
+.about5,
+.faq1,
+.prices2,
+.support2,
+.tour4 {
+  top: calc(50% - 13px);
+  left: 0;
+  font-size: var(--text-article-size);
+  line-height: 26px;
+  font-weight: 500;
+  font-family: var(--text-article);
+  color: var(--background-light);
+  text-align: left;
+  display: inline-block;
+}
+.about5,
+.faq1,
+.prices2,
+.support2 {
+  left: 18.53%;
+}
+.about5,
+.faq1,
+.support2 {
+  left: 40.33%;
+}
+.faq1,
+.support2 {
+  left: 61.85%;
+}
+.support2 {
+  left: 80.93%;
+}
+.menu11 {
+  position: absolute;
+  width: 37.76%;
+  top: calc(50% - 15px);
+  right: 48.35%;
+  left: 13.89%;
+  height: 26px;
+}
+.startup-315 {
+  position: absolute;
+  top: -6px;
+  left: 2px;
+  letter-spacing: -0.29px;
+}
+.header-menu14,
+.white12,
+.white13 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.header-menu14,
+.white12 {
+  height: 47.5%;
+  width: 11.42%;
+  top: 15%;
+  right: 88.58%;
+  bottom: 37.5%;
+}
+.header-menu14 {
+  height: 4.35%;
+  width: 69.43%;
+  top: 4.89%;
+  right: 15.36%;
+  bottom: 90.76%;
+  left: 15.21%;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+}
+.header-16 {
+  position: relative;
+  background-color: var(--background-dark);
+  width: 100%;
+  height: 920px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--buttons-big-size);
+  color: var(--background-light);
+  font-family: var(--text-article);
+}
